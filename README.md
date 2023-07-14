@@ -39,7 +39,7 @@ Fitur aplikasi :
 * Riwayat Pengajuan
 * Riwayat Belanja
   
-![smartkop](https://github.com/DaruNugroho/portofolio/assets/66731848/8dc9e951-1e36-4af0-a5a8-d428385a2356)
+![smartkop](https://github.com/DaruNugroho/portofolio/assets/66731848/ada845e6-76d4-4fe4-8306-4a95c44278f5)
 
 #### Dibangun Dengan :
 * [![Flutter][Flutter]][Flutter-url]
