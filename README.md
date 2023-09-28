@@ -1,5 +1,34 @@
 # My Portofolio
 
+## Smartkop - Wilmar
+<div align="left">
+  <p align="left">
+    Aplikasi Smartkop digunakan untuk mengelola keuangan koperasi pada perusahaan Wilmar
+    <br />
+  </p>
+</div>
+
+Fitur aplikasi :
+* Informasi Jadwal Penggunaan Lab
+* Informasi Jam Lab Kosong
+* Form Pinjaman Lab
+* Lapor Tidak Menggunakan Lab
+  
+![Group 26](https://github.com/DaruNugroho/portofolio/assets/66731848/83192416-98dc-4aff-835f-b46f667cbcf0)
+
+#### Dibangun Dengan :
+* [![Kotlin][Kotlin]][Kotlin-url]
+* [![Firebase][Firebase]][Firebase-url]
+* ![Build-with-love][Build-with-love]
+
+
+<!--Sumber-->
+[Kotlin]: https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white
+[Kotlin-url]: https://developer.android.com/
+
+[Firebase]: https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase
+[Firebase-url]: https://firebase.google.com/
+
 
 ## E Tority App - Jurusan Bahasa Politeknik Negeri Bengkalis
 <div align="left">
@@ -19,6 +48,7 @@ Fitur aplikasi :
 
 #### Dibangun Dengan :
 * [![Flutter][Flutter]][Flutter-url]
+* ![Build-with-love][Build-with-love]
 
 #
 
@@ -44,6 +74,7 @@ Fitur aplikasi :
 #### Dibangun Dengan :
 * [![Flutter][Flutter]][Flutter-url]
 * [![Firebase][Firebase]][Firebase-url]
+* ![Build-with-love][Build-with-love]
 
 
 
@@ -52,6 +83,10 @@ Fitur aplikasi :
 [Flutter-url]: https://flutter.dev/
 
 [Firebase]: https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase
+
+
+<!-- GLOBAL -->
+[Build-with-love]: http://ForTheBadge.com/images/badges/built-with-love.svg
 [Firebase-url]: https://firebase.google.com/
 
 
