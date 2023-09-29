@@ -1,9 +1,9 @@
 # My Portofolio
 
-## Smartkop - Wilmar
+## SMARTLab - Politeknik Negeri Bengkalis
 <div align="left">
   <p align="left">
-    Aplikasi Smartkop digunakan untuk mengelola keuangan koperasi pada perusahaan Wilmar
+    SmartLab adalah aplikasi inovatif yang dirancang khusus untuk mempermudah proses peminjaman lab kampus. Dengan tampilan yang intuitif dan user-friendly, SmartLab memungkinkan mahasiswa, dosen, dan staf administrasi dengan mudah mengecek ketersediaan laboratorium
     <br />
   </p>
 </div>
